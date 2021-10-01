@@ -1,0 +1,16 @@
+{
+"companyName": "Knights of Borria Ltd.",
+"productName": "Leximan",
+"productVersion": "0.1",
+"dataUrl": "Leximan-Playtest.data.unityweb",
+"wasmCodeUrl": "Leximan-Playtest.wasm.code.unityweb",
+"wasmFrameworkUrl": "Leximan-Playtest.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
